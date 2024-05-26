@@ -3,7 +3,7 @@ title: "Lefthookを使ってcommit前にコード品質をチェックしよう"
 emoji: "🥊"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: ["lefthook", "git", "環境構築"]
-published: false
+published: true
 ---
 
 ## こんなうっかりありませんか？
