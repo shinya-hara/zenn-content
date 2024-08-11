@@ -3,7 +3,7 @@ title: "【Remix】親ルートのloaderでバリデーションして、すべ�
 emoji: "💿"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: ["remix", "react"]
-published: false
+published: true
 ---
 
 ## はじめに
