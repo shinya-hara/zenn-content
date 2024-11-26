@@ -10,6 +10,7 @@ topics:
   - "prettier"
 published: true
 published_at: "2022-02-20 16:05"
+publication_name: "sonicmoov"
 ---
 
 今回は Next.js の環境構築をまとめていこうと思います。ミニマムな構成だと思うので、どのプロジェクトでも使いやすいのではないでしょうか？
