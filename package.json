@@ -11,6 +11,6 @@
   "keywords": [],
   "author": "Shinya Hara",
   "dependencies": {
-    "zenn-cli": "latest"
+    "zenn-cli": "^0.1.158"
   }
 }
