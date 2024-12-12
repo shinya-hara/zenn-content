@@ -3,7 +3,8 @@ title: "OrvalでAPI仕様書からコード自動生成！スキーマ駆動開�
 emoji: "🐟"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: ["orval", "openapi", "msw", "スキーマ駆動開発"]
-published: false
+published: true
+published_at: 2024-12-15 07:00
 publication_name: "sonicmoov"
 ---
 
