@@ -2,7 +2,7 @@
 title: "【2025年3月】styled-componentsがメンテナンスモードになったので、改めてReactでのCSSの実装方法を整理してみる"
 emoji: "🎨"
 type: "tech" # tech: 技術記事 / idea: アイデア
-topics: ["styledcomponents", "cssinjs", "tailwindcss", "react", "nextjs"]
+topics: ["styledcomponents", "css", "tailwindcss", "react", "nextjs"]
 published: true
 published_at: 2025-03-25 07:00
 publication_name: "sonicmoov"
