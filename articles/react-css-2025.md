@@ -17,6 +17,21 @@ https://opencollective.com/styled-components/updates/thank-you
 ということで今回は、styled-components に感謝しつつ、改めて「React で CSS を書く方法」について整理してみようと思います 🧵  
 これから CSS の構成を見直す人や、他の選択肢を探してる人の参考になればうれしいです！
 
+:::details 余談：時代の移り変わりを感じるニュースたち
+
+### 🚫 Create React App（CRA）が非推奨に
+
+React の公式ドキュメントからも案内があり、Create React App は **新規プロジェクトに使うことが推奨されなくなりました**。
+
+https://zenn.dev/sonicmoov/articles/deprecated-create-react-app
+
+### 📦 Recoil がアーカイブ化
+
+Facebook（Meta）製の状態管理ライブラリ「Recoil」も、2024 年 12 月に GitHub 上で**アーカイブされました**。
+
+https://zenn.dev/mk668a/articles/88685dfa915474
+:::
+
 ## 💅 styled-components とは何者だったのか
 
 styled-components は 2016 年ごろに登場した、CSS-in-JS の先駆け的な存在です。
