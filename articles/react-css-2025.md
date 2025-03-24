@@ -5,6 +5,7 @@ type: "tech" # tech: 技術記事 / idea: アイデア
 topics: ["styledcomponents", "cssinjs", "tailwindcss", "react", "nextjs"]
 published: true
 published_at: 2025-03-25 07:00
+publication_name: "sonicmoov"
 ---
 
 ## 📝 はじめに
