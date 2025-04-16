@@ -3,7 +3,7 @@ title: "【VSCode】Copilot NES (Next Edit Suggestions) がすごいぞ！"
 emoji: "➡️"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: ["vscode", "githubcopilot", "ai"]
-published: false
+published: true
 publication_name: "sonicmoov"
 ---
 
