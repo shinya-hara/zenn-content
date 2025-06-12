@@ -1,5 +1,5 @@
 ---
-title: "【Figma公式】Dev Mode MCP サーバーが来た！"
+title: "Figma公式の Dev Mode MCP サーバーが来た！"
 emoji: "🎨"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: ["figma", "mcp", "ai", "cursor"]
