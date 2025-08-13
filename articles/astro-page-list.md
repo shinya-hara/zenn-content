@@ -3,7 +3,7 @@ title: "Astroでサクッとページ一覧を実装する"
 emoji: "📚"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: ["astro", "vite"]
-published: false
+published: true
 publication_name: "sonicmoov"
 ---
 
